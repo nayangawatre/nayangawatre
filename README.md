@@ -3,10 +3,7 @@
   <h3>🚀 Full Stack Java Developer | Problem Solver | Tech Educator</h3>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayangawatre&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayangawatre&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff" alt="GitHub Streak" />
-</div>
+
 
 ## 🏆 Problem Solving & Coding Stats
 
