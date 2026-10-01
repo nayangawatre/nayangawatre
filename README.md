@@ -2,7 +2,9 @@
   <h1>Hi 👋, I'm Nayan Ravindra Gawatre</h1>
   <h3>🚀 Full Stack Java Developer | Problem Solver | Tech Educator</h3>
 </div>
-
+<a href="https://github.com/nayangawatre">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Tech+Educator+%7C+100%2B+Students;400%2B+LeetCode+Problems+Solved;Passionate+Problem+Solver" alt="Typing Animation" />
+  </a>
 
 
 ## 🏆 Problem Solving & Coding Stats
